@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "オリオンをなぞる (S.B style)",
+  "base_artist": "UNISON SQUARE GARDEN",
+  "createdAt": "2026-04-02T15:22:20.023353Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "オリオンをなぞる",
+      "artist": "UNISON SQUARE GARDEN",
+      "has_synced": true,
+      "path": "select/01_オリオンをなぞる_UNISON_SQUARE_GARDEN.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "オリオンをなぞる",
+      "artist": "UNISON SQUARE GARDEN",
+      "has_synced": true,
+      "path": "select/02_オリオンをなぞる_UNISON_SQUARE_GARDEN.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "オリオンをなぞる",
+      "artist": "UNISON SQUARE GARDEN",
+      "has_synced": false,
+      "path": "select/03_オリオンをなぞる_UNISON_SQUARE_GARDEN.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "オリオンをなぞる",
+      "artist": "Harusaruhi",
+      "has_synced": true,
+      "path": "select/04_オリオンをなぞる_Harusaruhi.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "オリオンをなぞる",
+      "artist": "W-Y",
+      "has_synced": false,
+      "path": "select/05_オリオンをなぞる_W-Y.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "オリオンをなぞる - Orion-wo Nazoru",
+      "artist": "UNISON SQUARE GARDEN",
+      "has_synced": true,
+      "path": "select/06_オリオンをなぞる_-_Orion-wo_Nazoru_UNISON_SQUARE_GARDEN.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "オリオンをなぞる",
+      "artist": "UNISON SQUARE GARDEN",
+      "has_synced": false,
+      "path": "select/pl_01_オリオンをなぞる_UNISON_SQUARE_GARDEN.txt"
+    }
+  ]
+}
